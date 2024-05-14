@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:typed_data';
-import 'package:coinlibs/src/address.dart';
-import 'package:coinlibs/src/common/bytes.dart';
-import 'package:coinlibs/src/common/serial.dart';
+import 'package:vkaxlib/src/address.dart';
+import 'package:vkaxlib/src/common/bytes.dart';
+import 'package:vkaxlib/src/common/serial.dart';
 import 'ec_private_key.dart';
 import 'hash.dart';
 import 'ec_public_key.dart';

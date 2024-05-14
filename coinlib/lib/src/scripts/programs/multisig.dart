@@ -1,9 +1,9 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/common/bytes.dart';
-import 'package:coinlibs/src/crypto/ec_public_key.dart';
-import 'package:coinlibs/src/scripts/operations.dart';
-import 'package:coinlibs/src/scripts/program.dart';
-import 'package:coinlibs/src/scripts/script.dart';
+import 'package:vkaxlib/src/common/bytes.dart';
+import 'package:vkaxlib/src/crypto/ec_public_key.dart';
+import 'package:vkaxlib/src/scripts/operations.dart';
+import 'package:vkaxlib/src/scripts/program.dart';
+import 'package:vkaxlib/src/scripts/script.dart';
 import 'package:collection/collection.dart';
 
 class MultisigProgram implements Program {

@@ -1,4 +1,4 @@
-import "package:coinlibs/coinlibs.dart";
+import "package:vkaxlib/vkaxlib.dart";
 
 void main() async {
 

@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/common/serial.dart';
+import 'package:vkaxlib/src/common/serial.dart';
 import 'package:collection/collection.dart';
 import 'operations.dart';
 

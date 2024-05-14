@@ -1,6 +1,6 @@
-import 'package:coinlibs/src/common/serial.dart';
-import 'package:coinlibs/src/crypto/random.dart';
-import 'package:coinlibs/src/scripts/program.dart';
+import 'package:vkaxlib/src/common/serial.dart';
+import 'package:vkaxlib/src/crypto/random.dart';
+import 'package:vkaxlib/src/scripts/program.dart';
 import 'package:collection/collection.dart';
 import 'inputs/input.dart';
 import 'output.dart';

@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'package:coinlibs/coinlibs.dart';
+import 'package:vkaxlib/vkaxlib.dart';
 import 'package:test/test.dart';
 
 void main() {

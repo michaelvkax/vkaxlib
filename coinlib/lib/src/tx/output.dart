@@ -1,10 +1,10 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/address.dart';
-import 'package:coinlibs/src/common/checks.dart';
-import 'package:coinlibs/src/common/serial.dart';
-import 'package:coinlibs/src/scripts/program.dart';
-import 'package:coinlibs/src/scripts/script.dart';
-import 'package:coinlibs/src/tx/sighash/sighash_type.dart';
+import 'package:vkaxlib/src/address.dart';
+import 'package:vkaxlib/src/common/checks.dart';
+import 'package:vkaxlib/src/common/serial.dart';
+import 'package:vkaxlib/src/scripts/program.dart';
+import 'package:vkaxlib/src/scripts/script.dart';
+import 'package:vkaxlib/src/tx/sighash/sighash_type.dart';
 
 /// A transaction output that carries a [value] and [program] specifying how the
 /// value can be spent.

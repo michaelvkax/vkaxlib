@@ -40,7 +40,7 @@ using the library on Linux, macOS, or Windows, then please see
 The library can be imported via:
 
 ```
-import 'package:coinlibs/coinlibs.dart';
+import 'package:vkaxlib/vkaxlib.dart';
 ```
 
 The library must be asynchronously loaded by awaiting the `loadCoinlib()`

@@ -1,9 +1,9 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/common/bytes.dart';
-import 'package:coinlibs/src/crypto/hash.dart';
-import 'package:coinlibs/src/scripts/program.dart';
-import 'package:coinlibs/src/scripts/programs/p2witness.dart';
-import 'package:coinlibs/src/scripts/script.dart';
+import 'package:vkaxlib/src/common/bytes.dart';
+import 'package:vkaxlib/src/crypto/hash.dart';
+import 'package:vkaxlib/src/scripts/program.dart';
+import 'package:vkaxlib/src/scripts/programs/p2witness.dart';
+import 'package:vkaxlib/src/scripts/script.dart';
 
 /// Pay-to-Witness-Script-Hash program taking a 32-byte script hash for a
 /// witness script whereby the witness script and other push data is to be

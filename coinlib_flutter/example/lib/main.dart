@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:coinlibs_flutter/coinlib_flutter.dart' as coinlib;
+import 'package:vkaxlib_flutter/coinlib_flutter.dart' as coinlib;
 
 void main() {
   runApp(const MyApp());

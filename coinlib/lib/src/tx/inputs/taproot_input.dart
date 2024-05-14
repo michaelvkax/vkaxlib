@@ -1,10 +1,10 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/crypto/ec_private_key.dart';
-import 'package:coinlibs/src/crypto/schnorr_signature.dart';
-import 'package:coinlibs/src/tx/output.dart';
-import 'package:coinlibs/src/tx/sighash/sighash_type.dart';
-import 'package:coinlibs/src/tx/sighash/taproot_signature_hasher.dart';
-import 'package:coinlibs/src/tx/transaction.dart';
+import 'package:vkaxlib/src/crypto/ec_private_key.dart';
+import 'package:vkaxlib/src/crypto/schnorr_signature.dart';
+import 'package:vkaxlib/src/tx/output.dart';
+import 'package:vkaxlib/src/tx/sighash/sighash_type.dart';
+import 'package:vkaxlib/src/tx/sighash/taproot_signature_hasher.dart';
+import 'package:vkaxlib/src/tx/transaction.dart';
 import 'input.dart';
 import 'input_signature.dart';
 import 'witness_input.dart';

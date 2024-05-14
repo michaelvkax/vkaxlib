@@ -1,6 +1,6 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/tx/sighash/sighash_type.dart';
-import 'package:coinlibs/src/tx/transaction.dart';
+import 'package:vkaxlib/src/tx/sighash/sighash_type.dart';
+import 'package:vkaxlib/src/tx/transaction.dart';
 
 abstract interface class SignatureHasher {
 

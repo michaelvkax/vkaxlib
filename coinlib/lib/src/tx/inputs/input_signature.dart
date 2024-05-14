@@ -1,7 +1,7 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/crypto/ecdsa_signature.dart';
-import 'package:coinlibs/src/crypto/schnorr_signature.dart';
-import 'package:coinlibs/src/tx/sighash/sighash_type.dart';
+import 'package:vkaxlib/src/crypto/ecdsa_signature.dart';
+import 'package:vkaxlib/src/crypto/schnorr_signature.dart';
+import 'package:vkaxlib/src/tx/sighash/sighash_type.dart';
 import 'input.dart';
 
 class InvalidInputSignature implements Exception {}

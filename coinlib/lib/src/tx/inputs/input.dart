@@ -1,7 +1,7 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/common/serial.dart';
-import 'package:coinlibs/src/scripts/script.dart';
-import 'package:coinlibs/src/tx/outpoint.dart';
+import 'package:vkaxlib/src/common/serial.dart';
+import 'package:vkaxlib/src/scripts/script.dart';
+import 'package:vkaxlib/src/tx/outpoint.dart';
 import 'input_signature.dart';
 import 'p2pkh_input.dart';
 import 'p2sh_multisig_input.dart';

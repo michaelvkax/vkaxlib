@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:typed_data';
-import 'package:coinlibs/src/common/bytes.dart';
-import 'package:coinlibs/src/common/checks.dart';
-import 'package:coinlibs/src/crypto/ec_private_key.dart';
-import 'package:coinlibs/src/crypto/hash.dart';
-import 'package:coinlibs/src/encode/base58.dart';
+import 'package:vkaxlib/src/common/bytes.dart';
+import 'package:vkaxlib/src/common/checks.dart';
+import 'package:vkaxlib/src/crypto/ec_private_key.dart';
+import 'package:vkaxlib/src/crypto/hash.dart';
+import 'package:vkaxlib/src/encode/base58.dart';
 import 'ec_public_key.dart';
 
 class InvalidHDKey implements Exception {}

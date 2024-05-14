@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/crypto/hash.dart';
+import 'package:vkaxlib/src/crypto/hash.dart';
 import 'package:dart_base_x/dart_base_x.dart';
 
 final _codec = BaseXCodec("123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz");

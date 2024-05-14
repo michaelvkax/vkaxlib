@@ -1,8 +1,8 @@
 import 'dart:typed_data';
-import 'package:coinlibs/src/common/serial.dart';
-import 'package:coinlibs/src/crypto/hash.dart';
-import 'package:coinlibs/src/scripts/script.dart';
-import 'package:coinlibs/src/tx/transaction.dart';
+import 'package:vkaxlib/src/common/serial.dart';
+import 'package:vkaxlib/src/crypto/hash.dart';
+import 'package:vkaxlib/src/scripts/script.dart';
+import 'package:vkaxlib/src/tx/transaction.dart';
 import 'precomputed_signature_hashes.dart';
 import 'sighash_type.dart';
 import 'signature_hasher.dart';
