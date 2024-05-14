@@ -433,7 +433,7 @@ abstract class Secp256k1Base<
   /// Constructs a 64-byte Schnorr signature for the 32-byte message [hash] and
   /// [privKey] scalar. [extraEntropy] (known as auxiliary data) is optional. It
   /// is recommended by secp256k1 for protection against side-channel attacks
-  /// but the Peercoin client does not use it and it causes signatures to lose
+  /// but the Vkax client does not use it and it causes signatures to lose
   /// determinism.
   Uint8List schnorrSign(
     Uint8List hash, Uint8List privKey, [Uint8List? extraEntropy,]

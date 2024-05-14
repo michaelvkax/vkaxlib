@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/peercoin/coinlib/master/logo.svg"
+    src="https://raw.githubusercontent.com/michaelvkax/coinlib/master/logo.svg"
     alt="Coinlib"
     width="250px"
   >
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://chainz.cryptoid.info/ppc/address.dws?p77CZFn9jvg9waCzKBzkQfSvBBzPH1nRre">
-    <img src="https://badgen.net/badge/peercoin/Donate/green?icon=https://raw.githubusercontent.com/peercoin/media/84710cca6c3c8d2d79676e5260cc8d1cd729a427/Peercoin%202020%20Logo%20Files/01.%20Icon%20Only/Inside%20Circle/Transparent/Green%20Icon/peercoin-icon-green-transparent.svg" alt="Peercoin Donate">
+    <img src="https://badgen.net/badge/michaelvkax/Donate/green?icon=https://raw.githubusercontent.com/michaelvkax/media/84710cca6c3c8d2d79676e5260cc8d1cd729a427/Vkax%202020%20Logo%20Files/01.%20Icon%20Only/Inside%20Circle/Transparent/Green%20Icon/michaelvkax-icon-green-transparent.svg" alt="Vkax Donate">
   </a>
   <a href="https://pub.dev/packages/coinlib_flutter">
     <img alt="pub.dev" src="https://img.shields.io/pub/v/coinlib_flutter?logo=dart&label=pub.dev">
@@ -18,7 +18,7 @@
 # Coinlib for Flutter
 
 This package provides flutter support for the
-[coinlib](https://pub.dev/packages/coinlib) library for Peercoin and
+[coinlib](https://pub.dev/packages/coinlib) library for Vkax and
 other cryptocoins. A `CoinlibLoader` widget is included that must be used when
 targeting web to ensure the library is ready to be used.
 

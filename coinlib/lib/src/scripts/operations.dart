@@ -264,7 +264,7 @@ class ScriptPushData implements ScriptOp {
 
     if (_data.isEmpty) return 0;
 
-    // Calculate negative numbers as done by Peercoin
+    // Calculate negative numbers as done by Vkax
     final isNeg = (_data.last & 0x80) == 0x80;
 
     // Absolute number with sign bit removed

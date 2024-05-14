@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 The secp256k1 library bundled into the flutter plugin via cocoapods.
                        DESC
-  s.homepage         = 'http://peercoin.net'
+  s.homepage         = 'http://vkax.org'
   s.license          = { :file => '../LICENSE' }
-  s.author           = 'Peercoin Developers'
+  s.author           = 'Vkax Developers'
 
   # This will ensure the source files in Classes/ are included in the native
   # builds of apps using this FFI plugin. Podspec does not support relative
