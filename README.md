@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/michaelvkax/coinlib/master/logo.svg"
+    src="https://raw.githubusercontent.com/michaelvkax/vkaxlib/master/logo.svg"
     alt="Coinlib"
     width="250px"
   >
@@ -18,11 +18,11 @@ Coinlib is a straight-forward and modular library for Vkax and other similar
 cryptocoins including Taproot support. This library allows for the construction
 and signing of transactions and management of BIP32 wallets.
 
-This repository contains the dart-only library in the `coinlib` directory and a
-flutter wrapper in the `coinlib_flutter` directory which includes support for
+This repository contains the dart-only library in the `vkaxlib` directory and a
+flutter wrapper in the `vkaxlib_flutter` directory which includes support for
 flutter platforms.
 
-The packages [coinlib](https://pub.dev/packages/coinlib) and
-[coinlib_flutter](https://pub.dev/packages/coinlib_flutter) are available on
+The packages [vkaxlib](https://pub.dev/packages/vkaxlib) and
+[vkaxlib_flutter](https://pub.dev/packages/vkaxlib_flutter) are available on
 pub.dev.
 

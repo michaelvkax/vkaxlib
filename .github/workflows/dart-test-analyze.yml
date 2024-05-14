@@ -21,12 +21,12 @@ jobs:
 
       - name: Install dependencies
         run: dart pub get
-        working-directory: ./coinlib
+        working-directory: ./vkaxlib
 
       - name: Analyze project source
         run: dart analyze --fatal-infos
-        working-directory: ./coinlib
+        working-directory: ./vkaxlib
 
       - name: Run tests using included wasm
         run: dart test -p chrome
-        working-directory: ./coinlib
+        working-directory: ./vkaxlib
