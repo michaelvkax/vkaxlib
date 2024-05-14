@@ -1,6 +1,6 @@
-## 2.0.0
+## 2.0.1
 
-Final release for 2.0.0
+Final release for 2.0.1
 
 ## 2.0.0-rc.10
 
