@@ -1,4 +1,4 @@
-name: coinlib
+name: coinlibs
 description:
   A straight-forward, modular library for Vkax and other Satoshi-based UTXO
   blockchains
