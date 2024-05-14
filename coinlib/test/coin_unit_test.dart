@@ -1,4 +1,4 @@
-import 'package:coinlib/coinlib.dart';
+import 'package:coinlibs/coinlibs.dart';
 import 'package:test/test.dart';
 
 void main() {

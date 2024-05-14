@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:coinlib/coinlib.dart';
+import 'package:coinlibs/coinlibs.dart';
 
 void main() async {
 

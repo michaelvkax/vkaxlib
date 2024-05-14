@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'package:coinlib/coinlib.dart';
+import 'package:coinlibs/coinlibs.dart';
 
 class TxVector {
   Transaction obj;

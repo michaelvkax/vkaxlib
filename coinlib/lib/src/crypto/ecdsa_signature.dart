@@ -1,8 +1,8 @@
 import 'dart:typed_data';
-import 'package:coinlib/src/secp256k1/secp256k1.dart';
-import 'package:coinlib/src/secp256k1/secp256k1_base.dart';
-import 'package:coinlib/src/common/bytes.dart';
-import 'package:coinlib/src/common/hex.dart';
+import 'package:coinlibs/src/secp256k1/secp256k1.dart';
+import 'package:coinlibs/src/secp256k1/secp256k1_base.dart';
+import 'package:coinlibs/src/common/bytes.dart';
+import 'package:coinlibs/src/common/hex.dart';
 import 'ec_private_key.dart';
 import 'ec_public_key.dart';
 

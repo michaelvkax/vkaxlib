@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
-import 'package:coinlib/coinlib.dart';
-export 'package:coinlib/coinlib.dart';
+import 'package:coinlibs/coinlibs.dart';
+export 'package:coinlibs/coinlibs.dart';
 
 /// A widget that ensures the coinlib library is loaded before use. This is
 /// currently only necessary on web but it is good practice to use in any case.

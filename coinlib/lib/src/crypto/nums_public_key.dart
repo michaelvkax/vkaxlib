@@ -1,6 +1,6 @@
 import 'dart:typed_data';
-import 'package:coinlib/src/crypto/ec_public_key.dart';
-import 'package:coinlib/src/crypto/random.dart';
+import 'package:coinlibs/src/crypto/ec_public_key.dart';
+import 'package:coinlibs/src/crypto/random.dart';
 
 /// A "nothing up my sleeve" [ECPublicKey] that is created from a point with no
 /// known private key and tweaked with a scalar value named [rTweak]. The key is

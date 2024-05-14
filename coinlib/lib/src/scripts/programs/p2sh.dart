@@ -1,9 +1,9 @@
 import 'dart:typed_data';
-import 'package:coinlib/src/common/bytes.dart';
-import 'package:coinlib/src/crypto/hash.dart';
-import 'package:coinlib/src/scripts/operations.dart';
-import 'package:coinlib/src/scripts/program.dart';
-import 'package:coinlib/src/scripts/script.dart';
+import 'package:coinlibs/src/common/bytes.dart';
+import 'package:coinlibs/src/crypto/hash.dart';
+import 'package:coinlibs/src/scripts/operations.dart';
+import 'package:coinlibs/src/scripts/program.dart';
+import 'package:coinlibs/src/scripts/script.dart';
 
 /// Pay-to-Script-Hash program taking a 20-byte script hash for a redeem script.
 class P2SH implements Program {

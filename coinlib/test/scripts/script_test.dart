@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 import 'package:test/test.dart';
-import 'package:coinlib/coinlib.dart';
+import 'package:coinlibs/coinlibs.dart';
 import 'common.dart';
 
 class ScriptVector {

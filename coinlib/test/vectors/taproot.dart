@@ -1,4 +1,4 @@
-import 'package:coinlib/coinlib.dart';
+import 'package:coinlibs/coinlibs.dart';
 
 class TaprootVector {
 

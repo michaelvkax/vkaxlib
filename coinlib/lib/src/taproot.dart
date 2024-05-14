@@ -1,10 +1,10 @@
 import 'dart:typed_data';
-import 'package:coinlib/src/common/bytes.dart';
-import 'package:coinlib/src/common/serial.dart';
-import 'package:coinlib/src/crypto/ec_private_key.dart';
-import 'package:coinlib/src/crypto/ec_public_key.dart';
-import 'package:coinlib/src/crypto/hash.dart';
-import 'package:coinlib/src/scripts/script.dart';
+import 'package:coinlibs/src/common/bytes.dart';
+import 'package:coinlibs/src/common/serial.dart';
+import 'package:coinlibs/src/crypto/ec_private_key.dart';
+import 'package:coinlibs/src/crypto/ec_public_key.dart';
+import 'package:coinlibs/src/crypto/hash.dart';
+import 'package:coinlibs/src/scripts/script.dart';
 import 'package:collection/collection.dart';
 
 /// This class encapsulates the construction of Taproot tweaked keys given an

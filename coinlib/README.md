@@ -40,7 +40,7 @@ using the library on Linux, macOS, or Windows, then please see
 The library can be imported via:
 
 ```
-import 'package:coinlib/coinlib.dart';
+import 'package:coinlibs/coinlibs.dart';
 ```
 
 The library must be asynchronously loaded by awaiting the `loadCoinlib()`

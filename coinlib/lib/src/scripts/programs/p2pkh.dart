@@ -1,10 +1,10 @@
 import 'dart:typed_data';
-import 'package:coinlib/src/common/bytes.dart';
-import 'package:coinlib/src/crypto/ec_public_key.dart';
-import 'package:coinlib/src/crypto/hash.dart';
-import 'package:coinlib/src/scripts/operations.dart';
-import 'package:coinlib/src/scripts/program.dart';
-import 'package:coinlib/src/scripts/script.dart';
+import 'package:coinlibs/src/common/bytes.dart';
+import 'package:coinlibs/src/crypto/ec_public_key.dart';
+import 'package:coinlibs/src/crypto/hash.dart';
+import 'package:coinlibs/src/scripts/operations.dart';
+import 'package:coinlibs/src/scripts/program.dart';
+import 'package:coinlibs/src/scripts/script.dart';
 
 /// Pay-to-Public-Key-Hash program taking a 20-byte public key hash that can
 /// satisfy this script with a signature.

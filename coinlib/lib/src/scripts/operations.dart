@@ -1,9 +1,9 @@
 import 'dart:typed_data';
-import 'package:coinlib/src/common/bytes.dart';
-import 'package:coinlib/src/common/hex.dart';
-import 'package:coinlib/src/common/serial.dart';
-import 'package:coinlib/src/crypto/ec_public_key.dart';
-import 'package:coinlib/src/tx/inputs/input_signature.dart';
+import 'package:coinlibs/src/common/bytes.dart';
+import 'package:coinlibs/src/common/hex.dart';
+import 'package:coinlibs/src/common/serial.dart';
+import 'package:coinlibs/src/crypto/ec_public_key.dart';
+import 'package:coinlibs/src/tx/inputs/input_signature.dart';
 import 'codes.dart';
 
 class InvalidScriptAsm implements Exception {}

@@ -1,20 +1,20 @@
 import 'dart:typed_data';
-import 'package:coinlib/src/common/bytes.dart';
-import 'package:coinlib/src/common/hex.dart';
-import 'package:coinlib/src/crypto/ec_public_key.dart';
-import 'package:coinlib/src/crypto/hash.dart';
-import 'package:coinlib/src/network.dart';
-import 'package:coinlib/src/encode/base58.dart';
-import 'package:coinlib/src/encode/bech32.dart';
-import 'package:coinlib/src/scripts/program.dart';
-import 'package:coinlib/src/scripts/programs/p2pkh.dart';
-import 'package:coinlib/src/scripts/programs/p2sh.dart';
-import 'package:coinlib/src/scripts/programs/p2tr.dart';
-import 'package:coinlib/src/scripts/programs/p2witness.dart';
-import 'package:coinlib/src/scripts/programs/p2wpkh.dart';
-import 'package:coinlib/src/scripts/programs/p2wsh.dart';
-import 'package:coinlib/src/scripts/script.dart';
-import 'package:coinlib/src/taproot.dart';
+import 'package:coinlibs/src/common/bytes.dart';
+import 'package:coinlibs/src/common/hex.dart';
+import 'package:coinlibs/src/crypto/ec_public_key.dart';
+import 'package:coinlibs/src/crypto/hash.dart';
+import 'package:coinlibs/src/network.dart';
+import 'package:coinlibs/src/encode/base58.dart';
+import 'package:coinlibs/src/encode/bech32.dart';
+import 'package:coinlibs/src/scripts/program.dart';
+import 'package:coinlibs/src/scripts/programs/p2pkh.dart';
+import 'package:coinlibs/src/scripts/programs/p2sh.dart';
+import 'package:coinlibs/src/scripts/programs/p2tr.dart';
+import 'package:coinlibs/src/scripts/programs/p2witness.dart';
+import 'package:coinlibs/src/scripts/programs/p2wpkh.dart';
+import 'package:coinlibs/src/scripts/programs/p2wsh.dart';
+import 'package:coinlibs/src/scripts/script.dart';
+import 'package:coinlibs/src/taproot.dart';
 
 class InvalidAddress implements Exception {}
 class InvalidAddressNetwork implements Exception {}

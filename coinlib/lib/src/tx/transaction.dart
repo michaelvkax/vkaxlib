@@ -1,10 +1,10 @@
 import 'dart:typed_data';
-import 'package:coinlib/src/common/checks.dart';
-import 'package:coinlib/src/common/hex.dart';
-import 'package:coinlib/src/common/serial.dart';
-import 'package:coinlib/src/crypto/ec_private_key.dart';
-import 'package:coinlib/src/crypto/hash.dart';
-import 'package:coinlib/src/tx/inputs/taproot_key_input.dart';
+import 'package:coinlibs/src/common/checks.dart';
+import 'package:coinlibs/src/common/hex.dart';
+import 'package:coinlibs/src/common/serial.dart';
+import 'package:coinlibs/src/crypto/ec_private_key.dart';
+import 'package:coinlibs/src/crypto/hash.dart';
+import 'package:coinlibs/src/tx/inputs/taproot_key_input.dart';
 import 'inputs/input.dart';
 import 'inputs/input_signature.dart';
 import 'inputs/legacy_input.dart';

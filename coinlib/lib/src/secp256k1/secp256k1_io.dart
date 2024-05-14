@@ -1,6 +1,6 @@
 import "dart:ffi";
 import "dart:io";
-import "package:coinlib/src/crypto/random.dart";
+import "package:coinlibs/src/crypto/random.dart";
 import 'package:ffi/ffi.dart';
 import "heap_array_ffi.dart";
 import "secp256k1.ffi.g.dart";
